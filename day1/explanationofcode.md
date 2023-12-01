@@ -1,5 +1,3 @@
-Sure, let's break down the code line by line:
-
 ```python
 import re
 ```
