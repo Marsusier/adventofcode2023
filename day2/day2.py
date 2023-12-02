@@ -38,3 +38,5 @@ with path.open() as f:
     print("part1: ", sum(result))
     result = [part2(line) for line in lines]
     print("part2: ", sum(result))
+
+#by Marsusier
