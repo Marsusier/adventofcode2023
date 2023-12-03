@@ -1,5 +1,3 @@
-Sure, let's go through the code line by line to understand its functionality:
-
 ```python
 import re
 from dataclasses import dataclass
