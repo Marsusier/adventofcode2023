@@ -1,6 +1,6 @@
 from functools import reduce
 
-seeds, *mappings = open('data.txt').read().split('\n\n')
+seeds, *mappings = open('day5.txt').read().split('\n\n')
 seeds = list(map(int, seeds.split()[1:]))
 
 
